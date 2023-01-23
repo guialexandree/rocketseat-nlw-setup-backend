@@ -1,0 +1,20 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+	"editor.inlayHints.enabled": "on",
+	"editor.inlayHints.padding": true,
+	"javascript.inlayHints.parameterNames.enabled": "all",
+	"typescript.inlayHints.parameterNames.enabled": "all",
+  "workbench.tree.indent": 16,
+  "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#0dbb78",
+		"editorInlayHint.background": "#414141",
+		"editorInlayHint.foreground": "#b9b9b9",
+		
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}
